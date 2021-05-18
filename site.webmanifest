@@ -1,0 +1,19 @@
+{
+    "name": "charlysamasenpai",
+    "short_name": "Blog",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-k7nXVeHu3JE/YKP921UmTJI/AAAAAAAAFoI/1-bCMML7RH4VKniRnWXLmwNq8Px-fFiGQCLcBGAsYHQ/s0/iconpng.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
